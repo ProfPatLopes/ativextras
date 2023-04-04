@@ -1,5 +1,4 @@
 .apre {
-    color:;
     position: absolute;
 width: 1440px;
 height: 114px;
@@ -70,22 +69,13 @@ body{
 .itens {
     
     position: absolute;
-    width: 1454px;
-    height: 762px;
-    left: -6px;
     top: 147px; 
+    width: 1440px;
+    height: 758px;
+    left: 0px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(67, 126, 112, 0) 0%, #437E70 100%);
 }
 
-h3{
-    
-    font-family: 'Lucida Sans';
-    font-size: small; 
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-       
-}
 .linha {
     font-family: 'Lucida Sans';
     font-size: small; 
