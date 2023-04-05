@@ -129,7 +129,7 @@ footer{
     position: absolute;
     margin:auto;
     left: -1px;
-    top:786px;
+    top:900px;
     width: 1440px;
     height: 27px;
        /*background: #958D4A;*/
@@ -148,6 +148,6 @@ width: 1440px;
 height: 114px;
 
 left: -2px;
-top: 813px;
+top: 930px;
 background: linear-gradient(180deg, rgba(67, 126, 112, 0) 0%, #437E70 100%);
 
