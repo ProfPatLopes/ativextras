@@ -4,7 +4,8 @@ width: 1440px;
 height: 114px;
 left: 0px;
 top: 0px;
-background: linear-gradient(180deg, rgba(67, 126, 112, 0) 0%, #437E70 100%);
+
+background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .prof{
     position: absolute;
@@ -45,7 +46,8 @@ background: linear-gradient(180deg, rgba(67, 126, 112, 0) 0%, #437E70 100%);
     height: 27px;
     left: 0px;
     top: 114px;
-    background: #437E70;
+    background: #346F61;
+
 
 }
 
@@ -69,7 +71,7 @@ body{
 .itens {
     
     position: absolute;
-    top: 147px; 
+    top: 140px; 
     width: 1440px;
     height: 758px;
     left: 0px;
@@ -131,7 +133,8 @@ footer{
     width: 1440px;
     height: 27px;
        /*background: #958D4A;*/
-       background: #437E70;
+       background: #346F61;
+
 }
 .lista{
 font-family: 'Lucida Sans';
