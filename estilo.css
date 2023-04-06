@@ -109,21 +109,7 @@ width: 545px;
 height: 35px;
 left: 447px;
 
-
-font-family: 'Indie Flower';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 35px;
-/* identical to box height */
-
-display: flex;
-align-items: center;
-
-color: #000000;
-
-mix-blend-mode: overlay;
-border: 1px solid #437E70;
+background: #346F61;
 
 }
 .parca{
