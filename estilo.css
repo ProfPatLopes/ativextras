@@ -63,7 +63,7 @@ background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .local{
     position: absolute;
-    width: 440px;
+    
     height: 39px;
     left: 18px;
     font-family: 'Inter';
