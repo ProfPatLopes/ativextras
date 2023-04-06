@@ -86,7 +86,10 @@ body{
     display: inline;
     font-size: 14px;
 }
-
+.itens {
+    
+    
+}
 .lateral2 {
     position: absolute;
     width: 220px;
@@ -117,15 +120,7 @@ body{
 .foto{
     width:  100px;    
 }
-.itens {
-    
-    position: absolute;
-    top: 140px; 
-    width: 1440px;
-    height: 758px;
-    left: 0px;
-    background: radial-gradient(50% 50% at 50% 50%, rgba(67, 126, 112, 0) 0%, #437E70 100%);
-}
+
 
 .local{
     position: absolute;
