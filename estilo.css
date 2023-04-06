@@ -50,6 +50,32 @@ background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 
 
 }
+.menu-local {
+    
+    position: absolute;
+    width: 1440px;
+    height: 54px;
+    left: 0px;
+    top: 141px;
+    background: linear-gradient(180deg, rgba(67, 126, 112, 0) 0%, #437E70 100%);
+
+
+}
+.local{
+    position: absolute;
+    width: 440px;
+    height: 39px;
+    left: 18px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+}
 .des{
     position: absolute;
 width: 339px;
@@ -73,7 +99,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     width: 220px;
     height: 477px;
     left: 0px;
-    top: 141px;
+    top: 195px;
     background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .turmas{
@@ -116,7 +142,7 @@ body{
     height: 477px;
     left: 1220px;
 
-    top: 141px;
+    top: 195px;
     background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 
 }
