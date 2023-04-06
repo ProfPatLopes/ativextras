@@ -85,6 +85,9 @@ body{
     width: 250px;
 }
 
+.foto{
+    width:  100px;    
+}
 .itens {
     
     position: absolute;
@@ -94,6 +97,7 @@ body{
     left: 0px;
     background: radial-gradient(50% 50% at 50% 50%, rgba(67, 126, 112, 0) 0%, #437E70 100%);
 }
+
 .local{
     position: absolute;
 width: 545px;
