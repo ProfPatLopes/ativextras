@@ -129,10 +129,10 @@ body{
     
 }
 .itens {
-   margin: auto;
-    width: 1000px;
-    height: 477px; 
     position: absolute;
+    margin: auto;
+    width: 1000px;
+    height: 477px;     
     left: 240px;
     top: 194px;
     
