@@ -90,6 +90,9 @@ body{
     height: 105px;
     left: 115px;
 }
+.video{
+    width:  200px;    
+}
 .foto{
     width:  100px;    
 }
