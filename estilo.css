@@ -91,6 +91,13 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
+.obj{
+    position: absolute;
+    top: 161px;
+    width: 215px;
+    height: 280px;
+
+}
 body{
    
     background: #F5F5F5;
@@ -125,11 +132,7 @@ body{
 .avataralunop{
     width: 250px;
 }
-.obj{
-    width: 215px;
-    height: 280px;
 
-}
 .video{
     width:  200px;    
 }
