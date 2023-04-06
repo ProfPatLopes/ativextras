@@ -100,6 +100,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .turmas{
     position: absolute;
+    color: #FFFFFF;
     width: 180px;
     height: 39px;
     left: 18px;
@@ -109,7 +110,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-size: 24px;
     line-height: 39px;
     /* identical to box height */
-    color: #FFFFFF;
+   
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
@@ -130,6 +131,9 @@ body{
    
     width: 1000px;
     height: 477px; 
+    position: absolute;
+    left: 240px;
+    top: 147px;
     
 }
 .topico{
