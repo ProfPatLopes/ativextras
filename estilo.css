@@ -84,7 +84,12 @@ body{
 .avataralunop{
     width: 250px;
 }
-
+.obj{
+    position: absolute;
+    width: 826px;
+    height: 105px;
+    left: 115px;
+}
 .foto{
     width:  100px;    
 }
