@@ -134,7 +134,7 @@ body{
 }
 
 .video{
-    position: absolute;
+    top: 143px;
     width:  200px;    
 }
 .foto{
