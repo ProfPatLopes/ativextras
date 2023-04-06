@@ -73,7 +73,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     width: 220px;
     height: 477px;
     left: 0px;
-    top: 145px;
+    top: 141px;
     background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .turmas{
@@ -112,7 +112,7 @@ body{
     height: 477px;
     left: 1220px;
 
-    top: 145px;
+    top: 141px;
     background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 
 }
@@ -148,23 +148,15 @@ background: #346F61;
 
 }
 .parca{
+    font-family: 'Lucida Sans';
+    font-size: small; 
+    font-size: 12px;
     position: absolute;
-width: 455px;
-height: 36px;
-left: 538px;
-top: 841px;
-
-font-family: 'Imperial Script';
-font-style: normal;
-font-weight: 400;
-font-size: 30px;
-line-height: 36px;
-
-color: #EAF2F0;
-
-mix-blend-mode: overlay;
-border: 1px solid #437E70;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1440px;
+    height: 27px;
+    left: 0px;
+    top: 614px;
+    background: #346F61;
 }
 .linha {
     font-family: 'Lucida Sans';
