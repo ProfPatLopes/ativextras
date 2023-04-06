@@ -116,6 +116,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
 .obj{
+    font-family: cursive;
+    font-size: 20px;
     text-align: justify;
     position: absolute;
     top: 110px;
@@ -181,7 +183,8 @@ body{
     backdrop-filter: blur(2px);
 }
 .mat2{
-    text-align: justify;
+    font-family: cursive;
+    font-size: 20px;
     position: absolute;
     top: 110px;
     width: 200px;
