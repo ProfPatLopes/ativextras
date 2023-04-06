@@ -134,6 +134,7 @@ body{
 }
 
 .video{
+    position: absolute;
     width:  200px;    
 }
 .foto{
