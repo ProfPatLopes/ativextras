@@ -68,6 +68,14 @@ color: #F5F5F5;
 border: 1px solid #FFFAFA;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+.lateral1{
+    position: absolute;
+    width: 220px;
+    height: 477px;
+    left: 0px;
+    top: 145px;
+    background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
+}
 body{
     margin:auto;
     background: #F5F5F5;
@@ -78,6 +86,18 @@ body{
     display: inline;
     font-size: 14px;
 }
+
+.lateral2 {
+    position: absolute;
+    width: 220px;
+    height: 477px;
+    left: 1220px;
+
+    top: 145px;
+    background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
+
+}
+
 .avataraluno{
     width: 100px;
 }
