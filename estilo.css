@@ -268,7 +268,7 @@ body{
 }
 
 
-.itens-of2 {
+.itens2 {
     position: absolute;
     margin: auto;
     width: 1000px;
@@ -277,7 +277,7 @@ body{
     top: 194px;
     
 }
-.topico-of2{
+.topico2{
     color:white;
     
     background: #F9DCB1;
@@ -294,6 +294,7 @@ body{
 
 
 }
+ 
 .material-of2{
     position: absolute;
     width: 220px;
