@@ -212,6 +212,128 @@ body{
     height: 280px;
 
 }
+
+
+.oficina2{
+    margin: auto;
+    position: absolute;
+    width: 220px;
+    height: 477px;
+    left: 0px;
+    top: 671px;
+    background: linear-gradient(180deg, #CB9544 0%, rgba(244, 49, 6, 0) 100%);
+}
+.objetivo-of2{
+    position: absolute;
+    color: #FFFFFF;
+    width: 180px;
+    height: 39px;
+    left: 18px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    /* identical to box height */
+   
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+}
+.descricao-of2{
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    top: 587px;
+    width: 200px;
+    height: 200px;
+
+}
+.itemvideo-of2{
+    top:777px;
+    position: absolute;
+    color: #FFFFFF;
+    width: 180px;
+    height: 39px;
+    left: 18px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    /* identical to box height */
+   
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+}
+
+
+.itens-of2 {
+    position: absolute;
+    margin: auto;
+    width: 1000px;
+    height: 477px;     
+    left: 240px;
+    top: 194px;
+    
+}
+.topico-of2{
+    color:white;
+    
+    background: #F9DCB1;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 39px;
+    /* identical to box height */
+   
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+
+
+}
+.material-of2{
+    position: absolute;
+    width: 220px;
+    height: 477px;
+    left: 1220px;
+
+    top: 671px;
+    background: linear-gradient(180deg, #CB9544 0%, rgba(244, 49, 6, 0) 100%);
+}
+.materiaisof2{
+    position: absolute;
+    color: #FFFFFF;
+    width: 180px;
+    height: 39px;
+    left: 18px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    /* identical to box height */
+   
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(2px);
+}
+.descricao-matof2{
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-size: 20px;
+    position: absolute;
+    top: 587px;
+    width: 200px;
+    height: 280px;
+
+}
+
+
+
+
 .avataraluno{
     width: 150px;
 }
