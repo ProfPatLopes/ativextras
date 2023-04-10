@@ -244,13 +244,13 @@ body{
     font-size: 20px;
     text-align: justify;
     position: absolute;
-    top: 587px;
+    top: 110px;
     width: 200px;
     height: 200px;
 
 }
 .video-of2{
-    top:777px;
+    top:300px;
     position: absolute;
     color: #FFFFFF;
     width: 180px;
@@ -324,7 +324,7 @@ body{
     font-style: italic;
     font-size: 20px;
     position: absolute;
-    top: 587px;
+    top: 110px;
     width: 200px;
     height: 280px;
 
