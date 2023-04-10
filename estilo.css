@@ -129,7 +129,17 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .turmas-itemvideo{
     top:300px;
-   
+    position: absolute;
+    color: #FFFFFF;
+    width: 180px;
+    height: 39px;
+    left: 18px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    /* identical to box height */
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
