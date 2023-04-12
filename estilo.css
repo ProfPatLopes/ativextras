@@ -50,6 +50,9 @@ background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 
 
 }
+.tab-menu{
+    position: absolute;
+}
 .menu-local {
     position: absolute;
     width: 1440px;
