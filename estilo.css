@@ -221,7 +221,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     width: 1440px;
     height: 54px;
     left: 0px;
-    top: 618px;
+    top: 672px;
     background: linear-gradient(180deg, rgba(67, 126, 112, 0) 0%, #437E70 100%);
 
 
@@ -241,7 +241,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(2px);
 }
 .sessao2{
-  background: #F9DCB1;
+    background: #9AC2B9;
 }
 .oficina2{
     margin: auto;
@@ -250,7 +250,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     height: 477px;
     left: 0px;
     top: 725px;
-    background: linear-gradient(180deg, #CB9544 0%, rgba(244, 49, 6, 0) 100%);
+   
+    background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .objetivo-of2{
     position: absolute;
@@ -309,7 +310,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .topico2{
     color:white;    
-    background:#CB9544;
+    background: #346F61;
+
     font-family: 'Inter';
     font-style: italic;
     font-weight: 800;
@@ -330,7 +332,8 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     left: 1220px;
 
     top: 725px;
-    background: linear-gradient(180deg, #CB9544 0%, rgba(244, 49, 6, 0) 100%);
+    
+    background: linear-gradient(180deg, #437E70 0%, rgba(67, 126, 112, 0) 100%);
 }
 .materiaisof2{
     position: absolute;
